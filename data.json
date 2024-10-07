@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "John Nolan",
+        "email": "john.nolan@lapd.net"
+    },
+    {
+        "id": 2,
+        "name": "Tim Bradford",
+        "email": "tim.bradford@lapd.net"
+    },
+    {
+        "id": 3,
+        "name": "Lucy Chen",
+        "email": "lucy.chen@lapd.net"
+     }
+]
+
