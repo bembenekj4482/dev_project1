@@ -1,0 +1,18 @@
+<users>
+    <user>
+        <id>1</id>
+        <name>Barry Allen</name>
+        <email>barry.allen@gmail.com</email>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Caitlin Snow</name>
+        <email>caitlin.snow@outlook.com</email>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Cisco Ramon</name>
+        <email>cisco.ramon@outlook.com</email>
+    </user>
+</users>
+
